@@ -52,7 +52,6 @@ Empower learners to **grow faster** with a smart, flexible, and engaging learnin
 
 ## 📸 Screenshots
 
-```
 ### Login Screen
 <img src="assets/screenshots/Picture1.jpg" width="300">
 
@@ -70,8 +69,6 @@ Empower learners to **grow faster** with a smart, flexible, and engaging learnin
 
 ### Setting Screen
 <img src="assets/screenshots/Picture6.jpg" width="300">
-
-```
 
 ---
 
