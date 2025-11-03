@@ -52,15 +52,25 @@ Empower learners to **grow faster** with a smart, flexible, and engaging learnin
 
 ## 📸 Screenshots
 
-> *(Add your screenshots here)*
-
 ```
-assets/screenshots/Picture1
-assets/screenshots/Picture2
-assets/screenshots/Picture3
-assets/screenshots/Picture4
-assets/screenshots/Picture5
-assets/screenshots/Picture6
+### Login Screen
+<img src="assets/screenshots/Picture1.jpg" width="300">
+
+### Select Domain Screen
+<img src="assets/screenshots/Picture2.jpg" width="300">
+
+### Home Screen
+<img src="assets/screenshots/Picture3.jpg" width="300">
+
+### Course Screen
+<img src="assets/screenshots/Picture4.jpg" width="300">>
+
+### payment Screen
+<img src="assets/screenshots/Picture5.jpg" width="300">
+
+### Setting Screen
+<img src="assets/screenshots/Picture6.jpg" width="300">
+
 ```
 
 ---
